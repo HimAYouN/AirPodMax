@@ -24,6 +24,7 @@ function App() {
       <Hero />
       <SecondPage />
       <BottomPage />
+      <div className="h-32"></div>
     </div>
   );
 }
