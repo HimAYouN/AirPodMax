@@ -33,7 +33,6 @@ function Hero() {
           their effortless setup, incredible sound quality, and iconic design."
           said Greg Joswaik
         </p>
-        <Button />
       </div>
       <div className="w-1/3">
         <img src={side} alt="" className="h-[100vh] " />
